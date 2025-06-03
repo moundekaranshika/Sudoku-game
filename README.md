@@ -2,7 +2,7 @@
 
 Automatically solve any 9x9 Sudoku puzzle using the backtracking algorithm. Includes both a **console-based** solver and a **Tkinter GUI interface** for interactive play.
 
-![sudoku\_banner](https://i.imgur.com/SxoTdtZ.png)
+![sudoku\_banner](https://www.google.com/imgres?q=sudoku&imgurl=https%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fcommons%2Fthumb%2Fe%2Fe0%2FSudoku_Puzzle_by_L2G-20050714_standardized_layout.svg%2F250px-Sudoku_Puzzle_by_L2G-20050714_standardized_layout.svg.png&imgrefurl=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FSudoku&docid=2PH68oM51aR1nM&tbnid=uc7Uo45UJQ3HNM&vet=12ahUKEwj4ov7Tq9WNAxXvT2wGHV_NKqkQM3oECBoQAA..i&w=250&h=250&hcb=2&ved=2ahUKEwj4ov7Tq9WNAxXvT2wGHV_NKqkQM3oECBoQAA)
 
 ---
 
@@ -117,4 +117,4 @@ MIT License
 
 ## 👨‍💻 Author
 
-Made with 🧠 by [Your Name](https://github.com/yourusername)
+Made by [Anshika Moundekar](https://github.com/moundekaranshika)
