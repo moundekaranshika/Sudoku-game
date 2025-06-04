@@ -17,17 +17,7 @@ A simple and interactive **Sudoku Solver Game** built using Python and Tkinter. 
 ---
 
 
-## 🚀 Getting Started
 
-### Prerequisites
-
-- Python 3.x installed on your system  
-- Tkinter (usually comes pre-installed with Python on Windows)
-
-To check if Python is installed:
-
-```bash
-python --version
 
 
  
