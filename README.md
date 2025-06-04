@@ -16,11 +16,6 @@ A simple and interactive **Sudoku Solver Game** built using Python and Tkinter. 
 
 ---
 
-## 🖼️ Screenshot
-
-![sudoku-game-screenshot]((https://github.com/user-attachments/assets/d95908b5-5ac9-449a-86f0-53a406547d60))
-
----
 
 ## 🚀 Getting Started
 
