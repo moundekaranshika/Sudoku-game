@@ -1,4 +1,4 @@
-# 🧩 Sudoku Solver Game (GUI) — Python + Tkinter
+# 🧩 Sudoku Game (GUI) — Python + Tkinter
 
 
 A simple and interactive **Sudoku Solver Game** built using Python and Tkinter. Start with a **partially filled Sudoku puzzle**, use the **Hint** feature to get help, or click **Solve** to see the full solution.
@@ -18,7 +18,7 @@ A simple and interactive **Sudoku Solver Game** built using Python and Tkinter. 
 
 ## 🖼️ Screenshot
 
-![sudoku-game-screenshot](assets/sudoku-game-gui.png)
+![sudoku-game-screenshot]((https://github.com/user-attachments/assets/d95908b5-5ac9-449a-86f0-53a406547d60))
 
 ---
 
